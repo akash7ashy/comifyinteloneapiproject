@@ -48,7 +48,7 @@
     <li><a href="#-outputs">🛸 Outputs</a></li>
     <li><a href="#-project-status">🚧 Project Status</a></li>
     <li><a href="#%EF%B8%8F-tech-stack">🛠️ Tech Stack</a></li>
-    <li><a href="#-join-our-community">🤖 Meet us!</a></li>
+   
     
   </ol>
 </details>
@@ -138,28 +138,13 @@ Comic-ify is revolutionizing how we engage with information. Powered by cutting-
     </a>
 </p>
 
-**✨ Dataset: We have pushed our data and model to HuggingFace, however it is currently made private.**
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=1xngEIozVgw)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Macromrit/Lexicon)
-[![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1u6DDqnxUgWTlgHAeIW7bdt0CnYkCX6fT?usp=sharing)
 
 
 
- ## **Check Out Our Video**
 
-**Explore our demo video on YouTube**
 
-<div align="center">
-  <p align="center"><strong>YouTube Demo</strong></p>
-  <p align="center">
-    <a href="https://www.youtube.com/watch?v=1xngEIozVgw">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNzYW9ic21ybW0yeXJka2xvdjVkNGt1czc5aHBsMWE2b2UzYWxvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Nc3xlO1kGg3S/giphy.gif" alt="YouTube GIF" width="150">
-    </a>
-    <br>
-    <a href="https://www.youtube.com/watch?v=1xngEIozVgw">Click Here!</a>
-  </p>
-</div>    <a name="get-started"></a>
+
+
 
 
 
@@ -328,8 +313,6 @@ As we continue to evolve Comicify, our goal remains clear: to revolutionize the 
 
 ✅ **Seamless Adaptability**: Thanks to our integration with the Intel® AI Analytics Toolkit, we smoothly handle machine learning and deep learning workloads with minimal adjustments.
 
-✅ **Fostered Collaboration**: Our journey involved collaboration with experts in deep learning and data analysis, highlighting the importance of teamwork in achieving our shared goals.
-
 <a name="#community"></a>
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
@@ -338,78 +321,6 @@ As we continue to evolve Comicify, our goal remains clear: to revolutionize the 
     </a>
 </p>
 
-## 🤖 Join Our Community
-
-<p align="center">
-  <img src="https://github.com/SrikarVamsi/dump/blob/main/amrita_logo.png" alt="Amrita Vishwa Vidyapeetham Logo">
-</p>
-
-Meet the talented minds behind Comic-ify, all hailing from Amrita Vishwa Vidyapeetham's AI branch:
-
-**<p align="center">Surya</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/surya.jpg" alt="Surya's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/surya-santhosh-64a08b297/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/ss.surya.ss/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-**<p align="center">Amrit</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/amrith.jpg" alt="Amrit's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/macromrit/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/amritsubramanian.c/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-**<p align="center">Navneet</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/me.jpg" alt="Navneet's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/navneet-krishna-669000279/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/krri__shh/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-**<p align="center">Srikar</p>**
-   <p align="center">
-     <img src="https://github.com/S0L009/COMIC-IFY_OneAPI/blob/main/Streamlit/srikar.jpg" alt="Srikar's Picture" width="150">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/kottakki-srikar-vamsi/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://www.instagram.com/srikarvamsi1230/">
-       <img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square&logo=instagram" alt="Instagram">
-     </a>
-   </p>
-
-
-<div align="center">
-
-In our journey, we were fortunate to have the support of numerous individuals who lent their expertise and encouragement. Special thanks to **Kavya Sakthivel**, **Premjith Sir**, **Dilip Parasu**, **Pratiti Bhadra mam** and **Vipin Das sir** for their active support throughout the process. Your contributions were invaluable to our success.
-
-</div>
-
-<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
-    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
-        ↑ Back to Top ↑
-    </a>
-</p>
 
 
 
