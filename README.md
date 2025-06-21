@@ -156,7 +156,7 @@ Comic-ify is revolutionizing how we engage with information. Powered by cutting-
 ### 1. Build and Setup
 Clone the Comic-ify repository to your local machine using the following command:
 ```bash
-git clone https://github.com/S0L009/COMIC-IFY_OneAPI.git
+git clone https://github.com/akash7ashy/comifyinteloneapiproject.git
 ```
 ### 2. Running the Fast API
 Run the FastAPI server locally to enable all endpoints
